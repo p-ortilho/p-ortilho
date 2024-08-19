@@ -5,6 +5,7 @@ Sou um estudante de Engenharia de Software com um forte interesse em Segurança 
 ##
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ##
 ### 🛠️Ferramentas e Tecnologias
 ##
