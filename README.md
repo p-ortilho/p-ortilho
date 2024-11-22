@@ -9,7 +9,10 @@ Sou um estudante de Engenharia de Software com um forte interesse em Segurança 
 ##
 ### 🛠️Ferramentas e Tecnologias
 ##
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,git,github)](https://skillicons.dev)
+##
+## Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 ##
 ## 🧰Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
