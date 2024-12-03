@@ -1,5 +1,5 @@
 # Olá 👋
-Sou um estudante de Engenharia de Software com um forte interesse em Segurança da Informação. Tenho uma boa compreensão da linguagem Python e estou sempre procurando expandir meu conhecimento.
+Estudante de engenharia de software 👨‍💻, destaco-me no desenvolvimento front-end 🖥️ e no domínio de diversas tecnologias essenciais para o mercado atual. 🚀 Minha expertise abrange linguagens de programação como Python, C/C++, além de tecnologias web como HTML, CSS e JavaScript, complementadas por habilidades em frameworks como Flask e conhecimentos sólidos em banco de dados SQL. 💻 Busco constantemente aprimorar minhas competências técnicas, combinando criatividade e precisão no desenvolvimento de soluções tecnológicas inovadoras. 🌟
 ##
 ### 🚀Linguagens de Programação
 ##
