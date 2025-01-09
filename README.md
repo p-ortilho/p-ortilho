@@ -16,6 +16,7 @@ Estudante de engenharia de software 👨‍💻, destaco-me no desenvolvimento f
 ##
 ## 🧰Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 ##
 <div align="center">
   <a href="https://github.com/p-ortilho">
