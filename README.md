@@ -26,4 +26,4 @@ Estudante de engenharia de software 👨‍💻, destaco-me no desenvolvimento f
 
 ## 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/-kainaportilho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kainaportilho@gmail.com)](mailto:kainaportilho@gmail.com)
-[![Linkedin: Portilho](https://img.shields.io/badge/-CainãPortilho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-ortilho/)](https://www.linkedin.com/in/p-ortilho/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Portilho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/p-ortilho/)
